@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="quilometragem">quilometragem</string>
+    <string name="litros">litros</string>
+    <string name="data">data</string>
+    <string name="excluir">Excluir</string>
+    <string name="salvar">Salvar</string>
+    <string name="posto">posto</string>
+
+    <string-array name="opcoes_posto">
+        <item>Texaco</item>
+        <item>Shell</item>
+        <item>Petrobras</item>
+        <item>Ipiranga</item>
+        <item>Outros</item>
+    </string-array>
+</resources>
